@@ -1,0 +1,9 @@
+.virhe {
+   /* @SuppressWarning */
+   -fx-background-color: #FF0909;
+ }
+ 
+ .normaali {
+   /* @SuppressWarning */
+   -fx-background-color: white;
+ }
